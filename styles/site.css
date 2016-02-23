@@ -26,6 +26,7 @@ h2 {
   line-height: 48px;
   margin-top: 24px;
   margin-bottom: 24px;
+  color: blue;
 }
 h3 {
   font-family: inherit;
@@ -35,6 +36,7 @@ h3 {
   line-height: 48px;
   margin-top: 24px;
   margin-bottom: 0px;
+  color: purple;
 }
 h4 {
   font-family: inherit;
